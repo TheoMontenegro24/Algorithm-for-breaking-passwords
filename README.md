@@ -2,7 +2,13 @@ Cómo ejecutar el programa:
 
 Para poder realizar la ejecución del programa se debe tomar en cuenta que se tenga instalado Python además de contar con algún IDE el cual permita la interpretación del código al igual que acepte una 
 visualización gráfica, ya que el programa a demás de mostrar el resultado en consola cuenta con una pantalla adicional para un mejor entendimiento de cuantas pruebas realizo antes de obtener el resultado 
-al igual del tiempo en que se tardó en conseguirlo 
+al igual del tiempo en que se tardó en conseguirlo.
+En este caso para la realización del trabajo se utilizó “Visual Studio Code” entonces para poder ejecutar el programa debemos abrir el archivo “bruteforce.py”, una vez abierto debemos darle en botón play 
+que se encuentra en el lado derecho como se muestra en la imagen:
+
+<img width="921" height="116" alt="image" src="https://github.com/user-attachments/assets/a7a30304-a9f5-4ef4-b0cf-6dfe069e0714" />
+
+
 
 Ejemplos de salida:
 
